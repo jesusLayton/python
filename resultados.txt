@@ -1,0 +1,17 @@
+	*** conteo y ordenamiento	
+-------------------------------------------------------------
+la cantidad de personas que dieron su informacion es:33
+---------------------------------------------
+la cantidad diferente de colores que hay es:13
+{'morado', 'rojo', 'amarillo', 'dorado', 'cafe', 'azul', 'blanco', 'naranja', 'rosado', 'salmon', 'vinotinto', 'negro', 'verde'}
+-------------------------------------------------------------
+la cantidad diferente de colores que hay es:16
+{'bifechorizo', 'sushi', 'hamburguesa', 'camarones', 'lasagna', 'pasta', 'costillasbbq', 'pizza', 'alitaslimonpimienta', 'sancocho', 'carneasada', 'arrozconpollo', 'mariscos', 'pescado', 'arrozconleche', 'lasaña'}
+-------------------------------------------------------------
+la cantidad diferente de colores que hay es:11
+['barranquilla', 'bogota', 'duitama', 'elguacamayo', 'florencia', 'ibagué', 'medellin', 'monteria', 'nobsa', 'ocaña', 'yopal']
+-------------------------------------------------------------
+['Paula']
+['Diana', 'Paula', 'Paola', 'Gloria', 'Marcela', 'Daniela', 'Angelica']
+['Diana', 'Stephany', 'Paula', 'Paola', 'AlexanderLeonLeon', 'Pablo', 'Oscar', 'Gloria', 'JorgeHuertas', 'Andres', 'CarolinaJiménez', 'César', 'Juan', 'JorgeNicolas', 'NayibeLeyton', 'Karen', 'Juan', 'Marcela', 'Daniel', 'Jonathan', 'Daniela', 'BryamAlexander', 'Anderson', 'Maoly', 'Angelica', 'Israel', 'Haider', 'LuisCarlos']
+['Oscar']
